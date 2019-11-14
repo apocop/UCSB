@@ -1,2 +1,2 @@
 # UCSB
-Computational Linguistic &amp; NLP School Projects
+Computational Linguistic &amp; NLP Projects
